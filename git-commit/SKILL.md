@@ -96,7 +96,7 @@ chore: update dependencies to latest versions
 
 ## Step 3: Planモードでの提示
 
-**EnterPlanModeを使用**して、コミット計画をユーザーに提示する。
+**EnterPlanModeを使用**して、コミット計画をユーザーに提示する。  
 EnterPlanModeツールが存在しない場合は、コミット計画をユーザーに **メッセージ** で提示する。
 
 Planには以下を含める:
