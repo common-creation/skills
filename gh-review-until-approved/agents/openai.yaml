@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Review Until Approved"
+  short_description: "Fix and monitor PR reviews through approval"
+  default_prompt: "Use $gh-review-until-approved to monitor a GitHub pull request, fix valid feedback, and continue until approval."
